@@ -65,7 +65,7 @@ p {
   text-align: start;
 }
 
-.homepage-link {
+.project-link {
   color: white;
   border: 1px solid var(--primary-color);
   background: var(--primary-color);
