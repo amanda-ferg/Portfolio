@@ -20,7 +20,7 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 30px;
   opacity: 0.7;
 }
 
@@ -29,6 +29,10 @@ p {
   border-radius: 4px;
   font-size: 18px;
   line-height: 1.5;
+}
+
+footer {
+  background: var(--secondary-color);
 }
 
 .navigation-links {
@@ -43,6 +47,11 @@ p {
   padding: 20px 15px;
   text-decoration: none;
   text-transform: capitalize;
+}
+
+.header {
+  background: var(--secondary-color);
+  padding: 120px;
 }
 
 .contact-link {
@@ -63,6 +72,10 @@ p {
 
 .app-info {
   text-align: start;
+}
+
+.lady-grey {
+  border-radius: 20px;
 }
 
 .project-link {
