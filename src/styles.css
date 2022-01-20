@@ -1,7 +1,11 @@
 :root {
-  --primary-color: #f73bc2;
-  --secondary-color: #ffdbf4;
+  --primary-color: #ea54e3;
+  --secondary-color: #f99df5;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+body {
+  background: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);
 }
 
 h1,
@@ -106,5 +110,5 @@ footer {
 
 .icons {
   font-size: 35px;
-  color: black;
+  color: var(--primary-color);
 }
