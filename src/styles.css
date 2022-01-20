@@ -75,7 +75,9 @@ footer {
   text-align: start;
 }
 
-.lady-grey {
+.lady-grey,
+.weather-image,
+.weather-react-image {
   border-radius: 20px;
 }
 
