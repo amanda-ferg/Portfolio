@@ -16,7 +16,7 @@ h3 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 72px;
   color: #ffdbff;
 }
 
@@ -114,4 +114,10 @@ footer {
   font-size: 36px;
   color: var(--primary-color);
   text-decoration: none;
+}
+
+.contact {
+  background: var(--secondary-color);
+  border-radius: 6px;
+  margin: 120px;
 }
