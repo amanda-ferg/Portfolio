@@ -100,6 +100,15 @@ footer {
   color: var(--primary-color);
 }
 
+.shecodes-link {
+  text-decoration: none;
+  color: black;
+}
+
+.headshot {
+  border-radius: 200px;
+}
+
 .certificate {
   display: flex;
   justify-content: center;
