@@ -31,6 +31,11 @@ h3 {
   color: #ffdbff;
 }
 
+h4 {
+  font-size: 24px;
+  color: var(--primary-color);
+}
+
 p {
   padding: 20px;
   border-radius: 4px;
@@ -129,7 +134,7 @@ footer {
 }
 
 .icons-contact {
-  font-size: 24px;
+  font-size: 36px;
   color: var(--primary-color);
   text-decoration: none;
 }
